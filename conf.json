@@ -1,0 +1,11 @@
+{
+	"jid": "jid@domain",
+	"jid_password": "password",
+	"gateway_jids": ["jid1@domain", "jid2@domain"],
+	"log_filename": "kedavra.log",
+	"timeout": 5,
+	"runs": 1,
+	"run_interval": 0,
+	"retries": 5,
+	"retry_interval": 3
+}
